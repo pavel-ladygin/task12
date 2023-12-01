@@ -1,6 +1,0 @@
-A = []
-Max = -100000
-For I in (len(a)):
-	if A[I] > max
-	max = a[I]
-Print (max)
