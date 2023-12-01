@@ -1,9 +1,9 @@
 Len(A) = Writeln()
 A = []
-Max = -100000
+Min = 100000
 For I in (ken(a)):
 	print(a[I])
 For I in (len(a)):
-	if A[I] > max
-	max = a[I]
-Print (max)
+	if A[I] < min
+	min = a[I]
+Print (min)
